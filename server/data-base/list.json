@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "T-shirt",
+        "price": 23500,
+        "discription": "Differed oh cheerful procured pleasure securing suitable in. Hold rich on an he oh fine. Chapter ability shyness article welcome be do on service."
+    },
+    {
+        "id": 2,
+        "title": "Shirt",
+        "price": 43500,
+        "discription": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi."
+    },
+    {
+        "id": 3,
+        "title": "Boots",
+        "price": 33500,
+        "discription": "Inhabit hearing perhaps on ye do no. It maids decay as there he. Smallest on suitable disposed do although blessing he juvenile in. Society or if excited forbade. Here name off yet she long sold easy whom."
+    },
+    {
+        "id": 4,
+        "title": "Jacket",
+        "price": 35500,
+        "discription": "Ye to misery wisdom plenty polite to as. Prepared interest proposal it he exercise. My wishing an in attempt ferrars. Visited eat you why service looking engaged. At place no walls hopes rooms fully in."
+    },
+    {
+        "id": 5,
+        "title": "Pyjamas",
+        "price": 21550,
+        "discription": "Among going manor who did. Do ye is celebrated it sympathize considered. May ecstatic did surprise elegance the ignorant age."
+    },
+    {
+        "id": 6,
+        "title": "Hat",
+        "price": 11550,
+        "discription": "May musical arrival beloved luckily adapted him. Shyness mention married son she his started now. Rose if as past near were."
+    }
+]
